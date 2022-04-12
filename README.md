@@ -1,2 +1,2 @@
 # Arya
-A simple game render engine what based on opengl.
+A simple game render engine which based on opengl.
